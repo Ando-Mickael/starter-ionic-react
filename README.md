@@ -19,24 +19,18 @@ This is my starter ionic react project using Vite.
 
 To run the app locally, use the following command:
 
-`npm run dev` 
+`ionic serve` 
 
 This will start the development server and open the app in your default browser. Any changes made to the code will automatically reload the app.
 
-## Usage
+## Author
 
-Add instructions for using the app here.
-
-## Contributing
-
-Contributions are always welcome! Please follow these guidelines when contributing to this project:
-
-1.  Fork the repository
-2.  Create a branch (`git checkout -b feature/your-branch-name`)
-3.  Make changes and commit (`git commit -am 'Add some feature'`)
-4.  Push to the branch (`git push origin feature/your-branch-name`)
-5.  Open a Pull Request
+This project was created by **Ando Mickael Ramahenina**. You can reach out to me at [ando.mickael25@gmail.com](mailto:ando.mickael25@gmail.com).
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the **MIT License**.
+
+## Contributions
+
+Contributions are always welcome! If you have any feedback, issues or suggestions, please open an issue or a pull request.
